@@ -1,1 +1,2 @@
-body:not(.editing) #block-region-side-pre .block[data-block=panopto]{ display: none; }
+body:not(.editing) #block-region-side-pre .block[data-block=panopto],
+body:not(.editing) #block-region-side-pre .block[data-block=custom_js] { display: none; }

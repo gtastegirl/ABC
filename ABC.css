@@ -1,1 +1,1 @@
-body:not(.editing) #block-region-side-pre .block[data-block=panopto]{ display: block; }
+body:not(.editing) #block-region-side-pre .block[data-block=panopto]{ display: none; }
